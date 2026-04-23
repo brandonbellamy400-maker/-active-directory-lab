@@ -16,6 +16,7 @@ This lab focused on the deployment of a Windows Active Directory environment wit
 - Deployed a Windows Client VM to act as the workstation.
 
 ### 2. Domain Controller Configuration
+![Server Manager Dashboard](<Server manager DashBoard- AWS LAB.jpg>)
 - Installed **Active Directory Domain Services (AD DS)**.
 - Promoted the server to a Domain Controller for a new forest (e.g., `mydomain.local`).
 - Configured DNS to ensure proper name resolution across the environment.
