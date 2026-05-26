@@ -1,16 +1,16 @@
  # Active Directory Home Lab (AWS)
 
 ## 🎯 Objective
-This lab focused on the deployment of a Windows Active Directory environment within Microsoft Azure. The goal was to simulate a corporate network to practice user management, security group implementation, and Group Policy Objects (GPOs).
+This lab focused on the deployment of a Windows Active Directory environment within Amazon Web Services (AWS). The goal was to simulate a corporate network to practice user management, security group implementation, and Group Policy Objects (GPOs).
 
 ### 🛠️ Tools & Technologies Used
-- **Cloud Provider:** Microsoft Azure
+- **Cloud Provider:** Amazon Web Services (AWS)
 - **Operating Systems:** Windows Server 2022 (Domain Controller), Windows 10/11 (Client Workstation)
-- **Services:** Active Directory Domain Services (AD DS), Remote Desktop Protocol (RDP), Azure Virtual Networks.
+- **Services:** Active Directory Domain Services (AD DS), Remote Desktop Protocol (RDP),  
 
 ## 📋 Project Steps
 
-### 1. Azure Environment Setup
+### 1. AWS Environment Setup
 - Created a Virtual Network (VNet) and subnet for secure internal communication.
 - Deployed a Windows Server VM to act as the Domain Controller (DC).
 - Deployed a Windows Client VM to act as the workstation.
