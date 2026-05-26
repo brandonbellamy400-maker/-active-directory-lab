@@ -1,4 +1,4 @@
- # Active Directory Home Lab (Azure)
+ # Active Directory Home Lab (AWS)
 
 ## 🎯 Objective
 This lab focused on the deployment of a Windows Active Directory environment within Microsoft Azure. The goal was to simulate a corporate network to practice user management, security group implementation, and Group Policy Objects (GPOs).
